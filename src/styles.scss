@@ -41,3 +41,5 @@ $accent-color: #edd26c;
   @include rounded-border();
   @include flex-center();
 }
+/* Importing Bootstrap SCSS file. */
+@import 'bootstrap/scss/bootstrap';
